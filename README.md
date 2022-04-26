@@ -18,4 +18,16 @@ Avalição feito em Score-Z
 <br/>SqlServer
 <br/>EntityFrameWork
 <br/>Windows Forms
+
+<br/>Tela Inicial do sistema
+
 ![1649010134576](https://user-images.githubusercontent.com/87546094/163911799-488418d0-02f2-4faf-8294-d593f1e82fc6.jpg)
+
+<br/>Tela de cadastro do alunos
+<br/>Onde é possível fazer
+<br/>Edição,
+<br/>apagar,
+<br/>alterar
+
+![Captura de tela 2022-04-25 223607](https://user-images.githubusercontent.com/87546094/165208415-e2926f34-6767-4636-8ad7-2b601c06e652.jpg)
+
