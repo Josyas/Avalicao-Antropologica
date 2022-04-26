@@ -2,12 +2,16 @@
 
 A avaliação antropométrica considera um conjunto de medidas primárias e secundárias, para investigar o estado nutricional de um indivíduo, além de diagnosticar possíveis riscos de doenças cardíacas. 
 
-Para a avaliação, são considerados aspectos como peso, altura, dobras cutâneas, circunferências, IMC e peso ideal.
+Avalição feito em Score-Z
+<br/>Meninas 0-5 anos -> http://www.adolesc.com.br/?s=%28OMS%29+%28Meninas%29%2C+0-5+anos%2C+em+Z+score
+<br/>Meninos 0-5 anos -> https://www.adolesc.com.br/?s=%28OMS%29+%28Meninos%29%2C+0-5+anos%2C+em+Z+score
+<br/>Meninas 5-19 anos -> https://www.adolesc.com.br/?s=%28OMS%29+%28Meninas%29%2C+5-19+anos%2C+em+Z+score
+<br/>Meninas 5-19 anos -> http://www.adolesc.com.br/?s=%28OMS%29+%28Meninos%29%2C+5-19+anos%2C+em+Z+score
 
 <br/>Peso/Idade
-<br/>Altura/Idade
-<br/>Peso/Altura
 <br/>Imc/Idade
+<br/>Altura/Idade
+<br/>
 
 <br/>Feito em:
 <br/>.NET CORE 3.1
