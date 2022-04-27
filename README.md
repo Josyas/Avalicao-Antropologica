@@ -31,3 +31,4 @@ Avalição feito em Score-Z
 
 ![Captura de tela 2022-04-25 223607](https://user-images.githubusercontent.com/87546094/165208415-e2926f34-6767-4636-8ad7-2b601c06e652.jpg)
 
+Projeto em andamento
