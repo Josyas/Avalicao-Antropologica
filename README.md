@@ -37,4 +37,10 @@ Avalição feito em Score-Z
 
 ![1651844628801](https://user-images.githubusercontent.com/87546094/167276899-72899f0f-6a25-4748-9752-f54def153030.jpg)
 
+<br/>Autenticação JWT
+
+![Captura de tela 2022-05-11 122055](https://user-images.githubusercontent.com/87546094/167901586-6f4a4c02-4591-44e0-9500-5c6a2c3068ad.jpg)
+
+
+
 Projeto em andamento
