@@ -23,15 +23,13 @@ Avalição feito em Score-Z
 
 ![1649010134576](https://user-images.githubusercontent.com/87546094/163911799-488418d0-02f2-4faf-8294-d593f1e82fc6.jpg)
 
-<br/>Tela de cadastro do alunos
-<br/>Onde é possível fazer
-<br/>Edição,
-<br/>apagar,
-<br/>alterar
-
-
+<br/>Cadastro de alunos
 
 ![Captura de tela 2022-04-25 223607](https://user-images.githubusercontent.com/87546094/165208415-e2926f34-6767-4636-8ad7-2b601c06e652.jpg)
+
+<br/> Tela lista de alunos
+
+![Captura de tela 2022-05-12 141023](https://user-images.githubusercontent.com/87546094/168141028-584c57ce-aa60-4586-9d3c-2056626d5ac4.jpg)
 
 <br/>Web API
 
