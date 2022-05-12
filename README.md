@@ -15,6 +15,8 @@ Avalição feito em Score-Z
 
 <br/>Feito em:
 <br/>.NET CORE 3.1
+<br/> Web API 
+<br> JWT Autenticação e Autorização
 <br/>SqlServer
 <br/>EntityFrameWork
 <br/>Windows Forms
