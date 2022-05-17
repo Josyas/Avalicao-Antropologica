@@ -21,6 +21,11 @@ Avalição feito em Score-Z
 <br/>EntityFrameWork
 <br/>Windows Forms
 
+<br/> Front-End
+<br/> HTML5
+<br/> CSS
+<br/> JavaScript
+
 <br/>Tela Inicial do sistema
 
 ![1649010134576](https://user-images.githubusercontent.com/87546094/163911799-488418d0-02f2-4faf-8294-d593f1e82fc6.jpg)
