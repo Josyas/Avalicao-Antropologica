@@ -2,7 +2,7 @@
 
 A avaliação antropométrica considera um conjunto de medidas primárias e secundárias, para investigar o estado nutricional de um indivíduo.
 
-<br/>Parte do projeto está privado, pois o mesmo será utilizado para atender uma demanda de trabalho.
+<br/>OBS: Parte do projeto está privado, pois o mesmo será utilizado para atender uma demanda de trabalho.
 
 Avalição feito em Score-Z
 <br/>Meninas 0-5 anos -> http://www.adolesc.com.br/?s=%28OMS%29+%28Meninas%29%2C+0-5+anos%2C+em+Z+score
